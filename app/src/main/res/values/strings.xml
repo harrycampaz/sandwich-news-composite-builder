@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sandwich News</string>
+    <string name="new_sandwch">Noticias de sanwdwich</string>
+    <string name="saludo">Bienvenido a la App</string>
+</resources>
